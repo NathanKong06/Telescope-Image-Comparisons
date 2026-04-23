@@ -8,7 +8,7 @@ This Streamlit app allows you to explore and compare images from space telescope
 - Compare optical, infrared, and X-ray views of galaxies, nebulae, and star clusters.
 - Highlights major objects like the Pillars of Creation, M101, Ring Nebula, Cartwheel Galaxy, and more.
 
-## Site: [telescope-compare.streamlit.app](https://telescope-compare.streamlit.app)
+Site: [telescope-compare.streamlit.app](https://telescope-compare.streamlit.app)
 
 ## Screenshots
 
